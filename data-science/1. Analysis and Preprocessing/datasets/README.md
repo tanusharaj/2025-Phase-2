@@ -9,12 +9,12 @@ Your mission, should you choose to accept it, is to pick one dataset and develop
 For your dataset, you have two options, but you only need to choose *one*:
 
 ### [W Store Sales](W%20store%20sales/) 
-- `store_sales.csv`: Sales transactions, customer demographics, and product details all in one place.
-
-### [X Store Sales](X%20store%20sales/) 
 - `sales.csv`: Sales data and time info – the backbone of your predictions.
 - `features.csv`: Detailed store information to enrich your model.
 - `stores.csv`: Extra store-related info to give your predictions an edge.
+
+### [X Store Sales](X%20store%20sales/) 
+- `store_sales.csv`: Sales transactions, customer demographics, and product details all in one place.
 
 
 ## A Few Notes Before You Begin:
